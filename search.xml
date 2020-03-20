@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>LC-0001-TwoSum</title>
+      <link href="/smo/Algorithms/Leetcode-Solutions/LC-0001-TwoSum/"/>
+      <url>/smo/Algorithms/Leetcode-Solutions/LC-0001-TwoSum/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Solutions </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>01_AssignmentOperator</title>
+      <link href="/smo/Algorithms/smo-solutions/01-AssignmentOperator/"/>
+      <url>/smo/Algorithms/smo-solutions/01-AssignmentOperator/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Description"><a href="#Description" class="headerlink" title="Description"></a>Description</h1><p>如下为类型CMyString的声明，请为该类型添加赋值运算符函数。</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">CMytring</span></span></span><br><span class="line"><span class="class">&#123;</span></span><br><span class="line">  <span class="keyword">public</span>:</span><br><span class="line">    CMyString(<span class="keyword">char</span>* pData = <span class="literal">NULL</span>);</span><br><span class="line">    CMyString(<span class="keyword">const</span> CMyStrings&amp; str);</span><br><span class="line">    ~CMyString(<span class="keyword">void</span>);</span><br><span class="line">  <span class="keyword">private</span>:</span><br><span class="line">    <span class="keyword">char</span>* m_pData;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure><h1 id="Showerthoughts"><a href="#Showerthoughts" class="headerlink" title="Showerthoughts"></a>Showerthoughts</h1><h1 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> Solutions </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Software Testing</title>
+      <link href="/smo/Software-Testing/"/>
+      <url>/smo/Software-Testing/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> notes </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Data Structures</title>
+      <link href="/smo/Algorithms/Data-Structures/"/>
+      <url>/smo/Algorithms/Data-Structures/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> notes </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>C++ Grammar</title>
+      <link href="/smo/Cpp-Grammar/"/>
+      <url>/smo/Cpp-Grammar/</url>
+      
+        <content type="html"><![CDATA[<ul><li>面向对象的特性</li><li>构造函数与析构函数</li><li>动态绑定</li><li>常用设计模式</li><li>UML 图</li><li>内存管理</li><li>字符串处理</li><li>并发控制</li><li>size of</li><li>指针溢出</li><li>函数重载</li><li>乐观锁/悲观锁</li><li>类型转换</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> notes </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Leetcode Solutions</title>
+      <link href="/smo/Algorithms/Leetcode-Solutions/"/>
+      <url>/smo/Algorithms/Leetcode-Solutions/</url>
+      
+        <content type="html"><![CDATA[<a href="/smo/Algorithms/Leetcode-Solutions/LC-0001-TwoSum/" title="LC-0001-TwoSum">LC-0001-TwoSum</a>]]></content>
+      
+      
+      <categories>
+          
+          <category> notes </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SMO Solutions</title>
+      <link href="/smo/Algorithms/smo-solutions/"/>
+      <url>/smo/Algorithms/smo-solutions/</url>
+      
+        <content type="html"><![CDATA[<ul><li><a href="/smo/Algorithms/smo-solutions/01-AssignmentOperator/" title="01-AssignmentOperator">01-AssignmentOperator</a></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> notes </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Sword Means Offer</title>
+      <link href="/smo/"/>
+      <url>/smo/</url>
+      
+        <content type="html"><![CDATA[<h2 id="C"><a href="#C" class="headerlink" title="C++"></a>C++</h2><ul><li><a href="/smo/Cpp-Grammar/" title="C++ Grammar">C++ Grammar</a></li></ul><h2 id="Algorithms"><a href="#Algorithms" class="headerlink" title="Algorithms"></a>Algorithms</h2><ul><li></li><li><a href="/smo/Algorithms/smo-solutions/" title="SMO Solutions">SMO Solutions</a></li><li><a href="/smo/Algorithms/Leetcode-Solutions/" title="Leetcode Solutions">Leetcode Solutions</a></li></ul><h2 id="Operating-Systems"><a href="#Operating-Systems" class="headerlink" title="Operating Systems"></a>Operating Systems</h2><h2 id="Database"><a href="#Database" class="headerlink" title="Database"></a>Database</h2><h2 id="Computer-Networks"><a href="#Computer-Networks" class="headerlink" title="Computer Networks"></a>Computer Networks</h2><h2 id="Principles-of-Communications"><a href="#Principles-of-Communications" class="headerlink" title="Principles of Communications"></a>Principles of Communications</h2><h2 id="Software-Engineering"><a href="#Software-Engineering" class="headerlink" title="Software Engineering"></a>Software Engineering</h2><ul><li><a href="/smo/Software-Testing/" title="Software Testing">Software Testing</a></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> notes </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hello world</title>
+      <link href="/hello-world/"/>
+      <url>/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>It’s my first post!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blogs </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
